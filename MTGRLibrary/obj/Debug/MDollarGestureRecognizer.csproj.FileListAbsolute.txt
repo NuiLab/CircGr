@@ -1,0 +1,20 @@
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.csprojResolveAssemblyReference.cache
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.dll
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.pdb
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.dll
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.pdb
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\CircGR\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\CircGR\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MDollarGestureRecognizer.pdb

@@ -1,0 +1,127 @@
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.FrmLog.resources
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.TouchPad.resources
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.WMTouchForm.resources
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe.config
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.exe
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.pdb
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.pdb
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.dll
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.pdb
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.FrmLog.resources
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.TouchPad.resources
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.Resources.resources
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.WMTouchForm.resources
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+\\Transport\c$\Ruben\GitLabWorkspace\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.FrmLog.resources
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.TouchPad.resources
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MDollarDemo.WMTouchForm.resources
+C:\Ruben\CircGR\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\MDollarGestureRecognizer.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.FrmLog.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.TouchPad.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.WMTouchForm.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarDemo\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.FrmLog.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.TouchPad.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.WMTouchForm.resources
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.FrmLog.resources
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.TouchPad.resources
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.WMTouchForm.resources
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.dll
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.FrmLog.resources
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.TouchPad.resources
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.WMTouchForm.resources
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe.config
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.ResolveComReference.cache
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.exe
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.pdb
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.exe
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTScratchpadWMTouch.pdb
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.dll
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\MTGRLibrary.pdb
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.FrmLog.resources
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.TouchPad.resources
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.Resources.resources
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.WMTouchForm.resources
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTScratchpadWMTouch\obj\Debug\MTScratchpadWMTouch.csproj.GenerateResource.Cache

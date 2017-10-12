@@ -1,0 +1,32 @@
+#The following files should not be part of the MTGRSuite repository.
+
+#Visual Studio Preference Files
+.vs
+
+#All class diagrams
+*.cd
+
+#ignore all the binary files created
+/MTScratchpadWMTouch/bin/Debug/*.bin
+
+
+#ignore binary gesture files
+/MTScratchpadWMTouch/bin/Debug/GestureSet/Output/*.bin
+
+#ignore all the exp.txt files created during testing
+/MTScratchpadWMTouch/bin/Debug/*.txt
+/MTScratchpadWMTouch/bin/Debug/*.csv
+
+
+#ignore the shrinking window .txt files generated
+/MTScratchpadWMTouch/bin/Debug/GestureSet/*.txt
+
+#ignore all the candidate.xml files created during testing
+/MTScratchpadWMTouch/bin/Debug/GestureSet/*.xml
+/MTScratchpadWMTouch/bin/Debug/GestureSet/CannedCandidateGestures/*.xml
+/MTScratchpadWMTouch/bin/Debug/GestureSet/CandidateOutput/*.xml
+/MTScratchpadWMTouch/bin/Debug/GestureSet/TemplateExamples/*.xml
+/MTScratchpadWMTouch/bin/Debug/GestureSet/TemplateGestures/*.xml
+
+#ignore everyting inthe the experiment folder
+/MTScratchpadWMTouch/bin/Debug/GestureSet/Experiment/*/

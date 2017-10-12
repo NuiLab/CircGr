@@ -1,0 +1,19 @@
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\DollarM\$M\MDollarGestureRecognizer\obj\Debug\MTGRLibrary.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.csprojResolveAssemblyReference.cache
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.dll
+C:\Ruben\CircGR Renaming Attempt\Dorla\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.pdb
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.dll
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.pdb
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.csprojResolveAssemblyReference.cache
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.dll
+C:\Ruben\GitLabWorkspace\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.pdb
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.dll
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTGRLibrary\bin\Debug\MTGRLibrary.pdb
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.dll
+C:\Users\Ruben\Documents\OpenHID\MTGRSuite\MTGRLibrary\obj\Debug\MTGRLibrary.pdb
